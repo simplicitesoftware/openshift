@@ -22,4 +22,4 @@ If required you can also add:
 Deploy
 ------
 
-Push to OpenShift&reg; as desciribed in the documentation.
+Push to OpenShift&reg; as described in the documentation.
