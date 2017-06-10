@@ -1,5 +1,5 @@
 ![Simplicit&eacute; Software](https://www.simplicite.io/resources/logos/logo250.png)
-***
+* * *
 
 OpenShift&reg; template for Simplicit&eacute;&reg;
 ==================================================
